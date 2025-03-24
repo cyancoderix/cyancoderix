@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi there, githubers! 👋
+**I am Coderix, Cyan Developer.**
+- 🔭 I'm discovering Machine Learning.
+- 👨‍💻 My programming languages are C#, GDScript, Lua script and Python.
+- 🌱 I want to become a great programmer and entrepreneur.
+#### Where to find me:
+- 🎮 [itch.io](https://cyandeveloper.itch.io/)
+- 🔴 [reddit](https://www.reddit.com/user/CyanCoderix/)
 <!--
 **cyancoderix/cyancoderix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
