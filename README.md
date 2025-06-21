@@ -1,8 +1,8 @@
 ## Hi there, githubers! 👋
 **I am Coderix, Cyan Developer.**
-- 🔭 I'm discovering Machine Learning.
-- 👨‍💻 My programming languages are C#, GDScript, Lua script and Python.
-- 🌱 I want to become a great programmer and entrepreneur.
+- 🔭 I'm discovering Machine Learning, App Development and Game Development.
+- 👨‍💻 My programming languages are C#, GDScript, Lua, Dart and Python.
+- 🌱 I want to become a great programmer.
 #### Where to find me:
 - 🎮 [itch.io](https://cyandeveloper.itch.io/)
 - 🔴 [reddit](https://www.reddit.com/user/CyanCoderix/)
