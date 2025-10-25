@@ -6,7 +6,6 @@
 #### Where to find me:
 - 📄 [gist.github.com](https://gist.github.com/cyancoderix)
 - 🎮 [itch.io](https://cyandeveloper.itch.io/)
-- 🔴 [reddit](https://www.reddit.com/user/CyanCoderix/)
 <!--
 **cyancoderix/cyancoderix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
