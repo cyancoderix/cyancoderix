@@ -4,6 +4,7 @@
 - 👨‍💻 My programming languages are C#, GDScript, Lua, Dart and Python.
 - 🌱 I want to become a great programmer.
 #### Where to find me:
+- 📄 [gist.github.com](https://gist.github.com/cyancoderix)
 - 🎮 [itch.io](https://cyandeveloper.itch.io/)
 - 🔴 [reddit](https://www.reddit.com/user/CyanCoderix/)
 <!--
