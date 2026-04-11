@@ -1,11 +1,11 @@
 ## Hi there, githubers! 👋
-**I am Coderix, Cyan Developer.**
+**I am guy named cx-developer.**
 - 🔭 I'm discovering Machine Learning, App Development and Game Development.
 - 👨‍💻 My programming languages are C#, GDScript, Lua, Dart, Java and Python.
 - 🌱 I want to become a great programmer.
 #### Where to find me:
 - 📄 [gist.github.com](https://gist.github.com/cyancoderix)
-- 🎮 [itch.io](https://cyandeveloper.itch.io/)
+- 🎮 [itch.io](https://cx-developer.itch.io/)
 <!--
 **cyancoderix/cyancoderix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
