@@ -1,9 +1,6 @@
 ## Hi there, githubers! 👋
 I like Smalltalk language.
 
-#### Where to find me:
-- 📄 [gist.github.com](https://gist.github.com/cyancoderix)
-- 🎮 [itch.io](https://cx-developer.itch.io/)
 <!--
 **cyancoderix/cyancoderix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
