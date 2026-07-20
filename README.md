@@ -1,6 +1,5 @@
 ## Hi there, githubers! 👋
-**I am guy named cx-developer.**
-- ⚡ Fun fact: I like Smalltalk language.
+I like Smalltalk language.
 
 #### Where to find me:
 - 📄 [gist.github.com](https://gist.github.com/cyancoderix)
