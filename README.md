@@ -1,8 +1,7 @@
 ## Hi there, githubers! 👋
 **I am guy named cx-developer.**
-- 🔭 I'm discovering Machine Learning, App Development and Game Development.
-- 👨‍💻 My programming languages are C#, GDScript, Lua, Dart, Java and Python.
-- 🌱 I want to become a great programmer.
+- ⚡ Fun fact: I like Smalltalk language.
+
 #### Where to find me:
 - 📄 [gist.github.com](https://gist.github.com/cyancoderix)
 - 🎮 [itch.io](https://cx-developer.itch.io/)
